@@ -2,7 +2,7 @@
 
 ## Scraping The National Gallery using beautifulsoup
 
-###requesites
+### requesites
 * Python3
 * Libraries
   * requests
